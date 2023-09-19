@@ -1,3 +1,4 @@
+# MemoryGameRashid
 Welcome to my Memory Game App! In this game, there are multiple characters from the famous TV show "PAW PATROL". Your job is to click on different "cards" (Touchable Opacities) and
 obtain a matching pair. If the pair is matching, then the two cards will remain "unflipped" to display that. If they are not matching, however, then the cards will become 
 unflipped once again. The goal is to match every single pair of cards, which is shuffled each time you start a new game, so no cheating! On the top, the number of attempts you have 
